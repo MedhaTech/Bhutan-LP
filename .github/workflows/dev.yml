@@ -1,5 +1,5 @@
 
-name: Deployment LP to EC2 DEV
+name: Deployment LP to EC2 DEV Bhutan
 
 on:
   push:
